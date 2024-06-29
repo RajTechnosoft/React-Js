@@ -1,5 +1,7 @@
+import Raj from "./raj";
+
 function App() {
-  return <h1>hello world</h1>;
+  return <Raj />;
 }
 
 export default App;
